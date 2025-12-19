@@ -10,7 +10,7 @@
 | 4 | 강화영 |  |  |
 | 5 | 권홍빈 |  |  |
 | 6 | 김민형 | [무중단 배포 전략을 적용하여 운영 효율성을 높여보자](https://velog.io/@alsgudtkwjs/%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9A%B4%EC%98%81-%ED%9A%A8%EC%9C%A8%EC%84%B1%EC%9D%84-%EB%86%92%EC%97%AC%EB%B3%B4%EC%9E%90) |  |
-| 7 | 김준현 |  |  |
+| 7 | 김준현 |[시스템 디자인의 핵심 목표 4가지 - 신뢰성](https://kimjunhyun.tistory.com/169)  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
 | 10 | 이재민 |  |  |
