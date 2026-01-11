@@ -19,7 +19,7 @@
 | 13  | 이주현 | [액션에서 계산빼내기](https://jujus.gitbook.io/jutrongs-docs/my-storage/functional-programming/undefined-1)                                                  |          |
 | 14  | 이지은 |                                                                                       |          |
 | 15  | 이효경 |                                                                                       |          |
-| 16  | 이효성 |                                                                                       |          |
+| 16  | 이효성 | [[SI] startup junior PM 살아남기(#2)(부제 : 말 다이어트, no horse)](https://hyos.blog/m/4)                                                                                       |          |
 | 17  | 박지선 |                                                                                       |          |
 | 18  | 박현종 |                                                                                       |          |
 | 19  | 심정훈 | [리액티브_스트림즈와_프로젝트_리액터](https://bak-libra26.co.kr/posts/개발/자바/리액티브/리액티브_스트림즈와_프로젝트_리액터) |          |
