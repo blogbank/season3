@@ -8,7 +8,7 @@
 | 2   | 임진택 |  [[Spring Security] 비동기 환경에서의 인증 정보 전파와 트랜잭션 관리](https://taekt.tistory.com/50)  |          |
 | 3   |고다은 |     [스토리북 재배포 삽질기: 빠르게 고치려다 더 멀어진 이유 ](https://rundev.tistory.com/23)                                                                                   |          |
 | 4   | 강화영 | [js를 ts로 변환하기(리액트 프로젝트)](https://hyriverstudy.tistory.com/67)                         |          |
-| 5   | 권홍빈 |                                                                                       |          |
+| 5   | 권홍빈 | [[자료 구조 살피기] 2. 추상 자료 타입 ADT](https://velog.io/@escalating/aboutDataStructure02) |          |
 | 6   | 김민형 |                                                                                       |          |
 | 7   | 김준현 | [시스템 디자인의 핵심 목표 4가지 (2) - 성능, 가용성, 확장성](https://kimjunhyun.tistory.com/172)           |          |
 | 8   | 윤수오 |                                                                                       |          |
