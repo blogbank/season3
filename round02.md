@@ -26,7 +26,7 @@
 | 20  | 장정호 |                                                                                       |          |
 | 21  | 전영호 |                                                                                       |          |
 | 22  | 전용운 |                                                                                       |          |
-| 23  | 최강헌 |                                                                                       |          |
+| 23  | 최강헌 | [macOS에서 docker-compose로 n8n 설치하기](https://pray-for-dev.tistory.com/52)          |          |
 | 24  | 최여명 |                                                                                       |          |
 | 25  | 최혜수 | [DFS/BFS 알고리즘](https://huisu.tistory.com/2)                                           |          |
 
