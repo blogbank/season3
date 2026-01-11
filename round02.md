@@ -13,7 +13,7 @@
 | 7   | 김준현 | [시스템 디자인의 핵심 목표 4가지 (2) - 성능, 가용성, 확장성](https://kimjunhyun.tistory.com/172)           |          |
 | 8   | 윤수오 |                                                                                       |          |
 | 9   | 이민영 | [결함 보고](https://stylish-minyoung.tistory.com/221)                                     |          |
-| 10  | 이재민 |                                                                                       |          |
+| 10  | 이재민 | [사용자 경험을 생각한 UI 구성하기 위한 10가지 법칙](https://jam-scribble.tistory.com/50)                                                                                      |          |
 | 11  | 이정진 | [Spring Kafka](https://freshdev.tistory.com/117)                                      |          |
 | 12  | 이주영 |                                                                                       |          |
 | 13  | 이주현 | [액션에서 계산빼내기](https://jujus.gitbook.io/jutrongs-docs/my-storage/functional-programming/undefined-1)                                                  |          |
