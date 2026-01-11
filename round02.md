@@ -16,7 +16,7 @@
 | 10  | 이재민 |                                                                                       |          |
 | 11  | 이정진 | [Spring Kafka](https://freshdev.tistory.com/117)                                      |          |
 | 12  | 이주영 |                                                                                       |          |
-| 13  | 이주현 |                                                                                       |          |
+| 13  | 이주현 | [액션에서 계산빼내기](https://jujus.gitbook.io/jutrongs-docs/my-storage/functional-programming/undefined-1)                                                  |          |
 | 14  | 이지은 |                                                                                       |          |
 | 15  | 이효경 |                                                                                       |          |
 | 16  | 이효성 |                                                                                       |          |
