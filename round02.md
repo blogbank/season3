@@ -17,7 +17,7 @@
 | 11  | 이정진 | [Spring Kafka](https://freshdev.tistory.com/117)                                      |          |
 | 12  | 이주영 |                                                                                       |          |
 | 13  | 이주현 | [액션에서 계산빼내기](https://jujus.gitbook.io/jutrongs-docs/my-storage/functional-programming/undefined-1)                                                  |          |
-| 14  | 이지은 |                                                                                       |          |
+| 14  | 이지은 | [[Android] Build Variant는 왜 필요할까: 안드로이드 빌드 관리하기](https://ji-eeeun.tistory.com/134) |          |
 | 15  | 이효경 |                                                                                       |          |
 | 16  | 이효성 | [[SI] startup junior PM 살아남기(#2)(부제 : 말 다이어트, no horse)](https://hyos.blog/m/4)                                                                                       |          |
 | 17  | 박지선 |                                                                                       |          |
