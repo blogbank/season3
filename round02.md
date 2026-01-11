@@ -15,7 +15,7 @@
 | 9   | 이민영 | [결함 보고](https://stylish-minyoung.tistory.com/221)                                     |          |
 | 10  | 이재민 | [사용자 경험을 생각한 UI 구성하기 위한 10가지 법칙](https://jam-scribble.tistory.com/50)                                                                                      |          |
 | 11  | 이정진 | [Spring Kafka](https://freshdev.tistory.com/117)                                      |          |
-| 12  | 이주영 |                                                                                       |          |
+| 12  | 이주영 | [React Native 칸반보드 드래그 앤 드롭 구현기 (2)](https://phnml1.github.io/posts/React%20Native/React%20Native%20%EC%B9%B8%EB%B0%98%EB%B3%B4%EB%93%9C%20%EB%93%9C%EB%9E%98%EA%B7%B8%20%EC%95%A4%20%EB%93%9C%EB%A1%AD%20%EA%B5%AC%ED%98%84%EA%B8%B0_2)                                                                                     |          |
 | 13  | 이주현 | [액션에서 계산빼내기](https://jujus.gitbook.io/jutrongs-docs/my-storage/functional-programming/undefined-1)                                                  |          |
 | 14  | 이지은 | [[Android] Build Variant는 왜 필요할까: 안드로이드 빌드 관리하기](https://ji-eeeun.tistory.com/134) |          |
 | 15  | 이효경 | [DevOps와 CI/CD](https://hyolog.vercel.app/posts?slug=BackEnd/Docker/%EA%B0%95%EC%9D%98%20-%20DevOps%EC%99%80%20CICD)                                                                                      |          |
