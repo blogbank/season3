@@ -25,7 +25,7 @@
 | 19  | 심정훈 | [리액티브_스트림즈와_프로젝트_리액터](https://bak-libra26.co.kr/posts/개발/자바/리액티브/리액티브_스트림즈와_프로젝트_리액터) |          |
 | 20  | 장정호 |                                                                                       |          |
 | 21  | 전영호 |                                                                                       |          |
-| 22  | 전용운 |                                                                                       |          |
+| 22  | 전용운 | [운영체제의 이해(1)](https://jun-yu.tistory.com/18)                                                                             |          |
 | 23  | 최강헌 | [macOS에서 docker-compose로 n8n 설치하기](https://pray-for-dev.tistory.com/52)          |          |
 | 24  | 최여명 |                                                                                       |          |
 | 25  | 최혜수 | [DFS/BFS 알고리즘](https://huisu.tistory.com/2)                                           |          |
