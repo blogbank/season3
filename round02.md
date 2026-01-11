@@ -27,7 +27,7 @@
 | 21  | 전영호 |                                                                                       |          |
 | 22  | 전용운 | [운영체제의 이해(1)](https://jun-yu.tistory.com/18)                                                                             |          |
 | 23  | 최강헌 | [macOS에서 docker-compose로 n8n 설치하기](https://pray-for-dev.tistory.com/52)          |          |
-| 24  | 최여명 |                                                                                       |          |
+| 24  | 최여명 | [DynamoDB 연결을 통한 네트워크 상태 진단(https://velog.io/@yeomyeong_it/DynamoDB-연결을-통한-네트워크-상태-진단)]                                                                                      |          |
 | 25  | 최혜수 | [DFS/BFS 알고리즘](https://huisu.tistory.com/2)                                           |          |
 
 <br>
