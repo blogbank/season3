@@ -9,7 +9,7 @@
 | 3 | 고다은 |  |  |
 | 4 | 강화영 | [3년차 프론트엔드 개발자 회고](https://hyriverstudy.tistory.com/68) |  |
 | 5 | 권홍빈 |  |  |
-| 6 | 김민형 |  |  |
+| 6 | 김민형 | [2025 회고](https://velog.io/@alsgudtkwjs/2025-%ED%9A%8C%EA%B3%A0) |  |
 | 7 | 김준현 |[네트워크 - 쿠키, 세션, JWT, 인증 그리고 웹 보안 등](https://kimjunhyun.tistory.com/177)  |CS공부|
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
