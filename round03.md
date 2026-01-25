@@ -4,7 +4,7 @@
 
 | No. | 이름 | 블로그 주소 | 메모 / 코멘트 |
 |-----|------|-------------|---------------|
-| 1 | 이승현 |  |  |
+| 1 | 이승현 | [[CS] 클라우드 개념 이해하기](https://ssddo-story.tistory.com/79)<br>[[CS] 캐싱(Caching) 알아보기](https://ssddo-story.tistory.com/78)|  |
 | 2 | 임진택 | [MicroK8S ( 경량화 K8S )](https://taekt.tistory.com/51) |  |
 | 3 | 고다은 |  |  |
 | 4 | 강화영 | [3년차 프론트엔드 개발자 회고](https://hyriverstudy.tistory.com/68) |  |
