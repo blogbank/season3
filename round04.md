@@ -20,7 +20,7 @@
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |  |  |
 | 16 | 이효성 |  |  |
-| 17 | 박지선 |  |  |
+| 17 | 박지선 | [AUSG Public BIGCHAT 행사에서 배운 것들](https://velog.io/@jisunipark/AUSG-Public-BIGCHAT-%ED%96%89%EC%82%AC%EC%97%90%EC%84%9C-%EB%B0%B0%EC%9A%B4-%EA%B2%83%EB%93%A4) |  |
 | 18 | 박현종 |  |  |
 | 19 | 심정훈 |  |  |
 | 20 | 장정호 |  |  |
