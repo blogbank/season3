@@ -27,7 +27,7 @@
 | 21  | 전영호 |                                                                                                                                                                                                                                                        |          |
 | 22  | 전용운 |                                                                                                                                                                                                                                                        |          |
 | 23  | 최강헌 | [n8n 설치 후, 첫 자동화](https://pray-for-dev.tistory.com/54)                                                                                                                                                                      |          |
-| 24  | 최여명 |                                                                                                                                                                                                                                                        |          |
+| 24  | 최여명 |  [EC2에 nginx 올리기](https://velog.io/@yeomyeong_it/EC2%EC%97%90-nginx-%EC%98%AC%EB%A6%AC%EA%B8%B0-99z1hrhh)                                                                                                                                                                                                                                                       |          |
 | 25  | 최혜수 | [2026년도 1월 5주차 회고](https://huisu.tistory.com/5)                                                                                                                                                                                                        |          |
 
 <br>
