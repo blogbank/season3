@@ -10,7 +10,7 @@
 | 4 | 강화영 | [node.js와 npm에 대해서](https://hyriverstudy.tistory.com/70) |  |
 | 5 | 권홍빈 |  |  |
 | 6 | 김민형 |  |  |
-| 7 | 김준현 |  |  |
+| 7 | 김준현 |[HTTP vs HTTPS 환경에서의 쿠키 보안 설정](https://kimjunhyun.tistory.com/179)  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
 | 10 | 이재민 |  |  |
