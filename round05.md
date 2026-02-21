@@ -19,7 +19,7 @@
 | 13 | 이주현 |  |  |
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |  |  |
-| 16 | 이효성 |  |  |
+| 16 | 이효성 | [[SI] startup junior PM 살아남기(#3) (사업의 순서)](https://lho2046.tistory.com/5)  |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 |  |  |
 | 19 | 심정훈 | [깃허브 페이지 배포하기](https://bak-libra26.co.kr/posts/%EC%82%AC%EC%9D%B4%EB%93%9C%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EB%B8%94%EB%A1%9C%EA%B7%B8/%EB%B8%94%EB%A1%9C%EA%B7%B8:%20%EA%B9%83%ED%97%88%EB%B8%8C%20%ED%8E%98%EC%9D%B4%EC%A7%80%20%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0) |  |
