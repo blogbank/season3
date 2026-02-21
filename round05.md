@@ -4,7 +4,7 @@
 
 | No. | 이름 | 블로그 주소 | 메모 / 코멘트 |
 |-----|------|-------------|---------------|
-| 1 | 이승현 |  |  |
+| 1 | 이승현 | [[AWS] EC2 인스턴스 유형 선택방법](https://ssddo-story.tistory.com/81) |  |
 | 2 | 임진택 | [Private 서버 환경에서 CI/CD 구축 ( Github Action Runner 도입 )](https://taekt.tistory.com/53) |  |
 | 3 | 고다은 |  |  |
 | 4 | 강화영 | [node.js와 npm에 대해서](https://hyriverstudy.tistory.com/70) |  |
