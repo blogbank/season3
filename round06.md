@@ -15,7 +15,7 @@
 | 9 | 이민영 |  |  |
 | 10 | 이재민 |  |  |
 | 11 | 이정진 | [Netty Transport](https://freshdev.tistory.com/125) |  |
-| 12 | 이주영 |  |  |
+| 12 | 이주영 | [JWT(JSON Web Token)](https://bak-libra26.co.kr/posts/%EA%B0%9C%EB%B0%9C/%EB%B0%B1%EC%97%94%EB%93%9C/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0:%20JWT(JSON%20Web%20Token)%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0,%20%EC%99%9C%20%EC%93%B0%EB%8A%94%EA%B0%80) |  |
 | 13 | 이주현 |  |  |
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |  |  |
