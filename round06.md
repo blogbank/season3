@@ -15,14 +15,14 @@
 | 9 | 이민영 |  |  |
 | 10 | 이재민 |  |  |
 | 11 | 이정진 | [Netty Transport](https://freshdev.tistory.com/125) |  |
-| 12 | 이주영 | [JWT(JSON Web Token)](https://bak-libra26.co.kr/posts/%EA%B0%9C%EB%B0%9C/%EB%B0%B1%EC%97%94%EB%93%9C/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0:%20JWT(JSON%20Web%20Token)%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0,%20%EC%99%9C%20%EC%93%B0%EB%8A%94%EA%B0%80) |  |
+| 12 | 이주영 |[React Native 칸반보드 드래그 앤 드롭 성능 최적화 (2) - PanResponder 안정화와 Native 애니메이션](https://phnml1.github.io/posts/React%20Native/React%20Native%20%EC%B9%B8%EB%B0%98%EB%B3%B4%EB%93%9C%20%EB%93%9C%EB%9E%98%EA%B7%B8%20%EC%95%A4%20%EB%93%9C%EB%A1%AD%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94%20(2)%20-%20PanResponder%20%EC%95%88%EC%A0%95%ED%99%94%EC%99%80%20Native%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)  |  |
 | 13 | 이주현 |  |  |
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |  |  |
 | 16 | 이효성 |  |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 |  |  |
-| 19 | 심정훈 |  |  |
+| 19 | 심정훈 |[JWT(JSON Web Token)](https://bak-libra26.co.kr/posts/%EA%B0%9C%EB%B0%9C/%EB%B0%B1%EC%97%94%EB%93%9C/%EC%8A%A4%ED%94%84%EB%A7%81/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%8B%9C%ED%81%90%EB%A6%AC%ED%8B%B0:%20JWT(JSON%20Web%20Token)%EB%8A%94%20%EB%AC%B4%EC%97%87%EC%9D%B4%EA%B3%A0,%20%EC%99%9C%20%EC%93%B0%EB%8A%94%EA%B0%80)  |  |
 | 20 | 장정호 |  |  |
 | 21 | 전영호 |  |  |
 | 22 | 최강헌 |  |  |
