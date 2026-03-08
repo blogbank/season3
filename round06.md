@@ -18,7 +18,7 @@
 | 12 | 이주영 |[React Native 칸반보드 드래그 앤 드롭 성능 최적화 (2) - PanResponder 안정화와 Native 애니메이션](https://phnml1.github.io/posts/React%20Native/React%20Native%20%EC%B9%B8%EB%B0%98%EB%B3%B4%EB%93%9C%20%EB%93%9C%EB%9E%98%EA%B7%B8%20%EC%95%A4%20%EB%93%9C%EB%A1%AD%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94%20(2)%20-%20PanResponder%20%EC%95%88%EC%A0%95%ED%99%94%EC%99%80%20Native%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)  |  |
 | 13 | 이주현 |  |  |
 | 14 | 이지은 |  |  |
-| 15 | 이효경 |  |  |
+| 15 | 이효경 |[강의 - 현대 DevOps의 기본 - 컨테이너 기술 이해 및 활용 (2)](https://hyolog.vercel.app/posts?slug=BackEnd/Docker/%EA%B0%95%EC%9D%98%20-%20%ED%98%84%EB%8C%80%20DevOps%EC%9D%98%20%EA%B8%B0%EB%B3%B8%20-%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EA%B8%B0%EC%88%A0%20%EC%9D%B4%ED%95%B4%20%EB%B0%8F%20%ED%99%9C%EC%9A%A9%20(2))  |  |
 | 16 | 이효성 |  |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 |  |  |
