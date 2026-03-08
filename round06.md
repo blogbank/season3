@@ -4,7 +4,7 @@
 
 | No. | 이름 | 블로그 주소 | 메모 / 코멘트 |
 |-----|------|-------------|---------------|
-| 1 | 이승현 |  |  |
+| 1 | 이승현 |[[jOOQ] ExecuteListener로 슬로우 쿼리 감지하기](https://ssddo-story.tistory.com/82)  |  |
 | 2 | 임진택 | [JPA 환경에서 MyBatis? JPQL? QueryDSL?](https://taekt.tistory.com/54) |  |
 | 3 | 고다은 |  |  |
 | 4 | 강화영 |  |  |
