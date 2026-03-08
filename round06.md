@@ -13,7 +13,7 @@
 | 7 | 김준현 |  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
-| 10 | 이재민 |  |  |
+| 10 | 이재민 |[구글 애드몹(AdMob) 광고 종류 총정리: 내 앱에 딱 맞는 광고는?](https://jam-scribble.tistory.com/54)  |  |
 | 11 | 이정진 | [Netty Transport](https://freshdev.tistory.com/125) |  |
 | 12 | 이주영 |[React Native 칸반보드 드래그 앤 드롭 성능 최적화 (2) - PanResponder 안정화와 Native 애니메이션](https://phnml1.github.io/posts/React%20Native/React%20Native%20%EC%B9%B8%EB%B0%98%EB%B3%B4%EB%93%9C%20%EB%93%9C%EB%9E%98%EA%B7%B8%20%EC%95%A4%20%EB%93%9C%EB%A1%AD%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94%20(2)%20-%20PanResponder%20%EC%95%88%EC%A0%95%ED%99%94%EC%99%80%20Native%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)  |  |
 | 13 | 이주현 |  |  |
