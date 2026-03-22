@@ -6,7 +6,7 @@
 |-----|------|-------------|---------------|
 | 1 | 이승현 | [[AWS] EBS(Elastic Block Store)개념 이해하기](https://ssddo-story.tistory.com/83) |  |
 | 2 | 임진택 | [EC2 프리티어에서 로그 백업](https://taekt.tistory.com/55) |  |
-| 3 | 고다은 |  |  |
+| 3 | 고다은 | [AI 시대의 FOMO, 휩쓸리지 않고 이용하기](https://rundev.tistory.com/25) |  |
 | 4 | 강화영 |  |  |
 | 5 | 권홍빈 |  |  |
 | 6 | 김민형 |  |  |
