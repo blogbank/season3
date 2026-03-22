@@ -10,7 +10,7 @@
 | 4 | 강화영 |  |  |
 | 5 | 권홍빈 |[LinkedList 개념 공부](https://velog.io/@escalating/LinkedListConceptStudy)  |  |
 | 6 | 김민형 |  |  |
-| 7 | 김준현 |  |  |
+| 7 | 김준현 |[[짠팟] AWS 서버 구축부터 CI/CD 자동 배포까지](https://kimjunhyun.tistory.com/182)  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
 | 10 | 이재민 | [구글 애널리틱스4(GA4)가 무엇이고 왜 필요할까?](https://jam-scribble.tistory.com/55) |  |
