@@ -13,7 +13,7 @@
 | 7 | 김준현 |  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
-| 10 | 이재민 |  |  |
+| 10 | 이재민 | [구글 애널리틱스4(GA4)가 무엇이고 왜 필요할까?](https://jam-scribble.tistory.com/55) |  |
 | 11 | 이정진 |  |  |
 | 12 | 이주영 |[React Native 칸반보드 드래그 앤 드롭 성능 최적화 (3)](https://phnml1.github.io/posts/React%20Native/React%20Native%20%EC%B9%B8%EB%B0%98%EB%B3%B4%EB%93%9C%20%EB%93%9C%EB%9E%98%EA%B7%B8%20%EC%95%A4%20%EB%93%9C%EB%A1%AD%20%EC%84%B1%EB%8A%A5%20%EC%B5%9C%EC%A0%81%ED%99%94%20(3)%20-%20Zustand%20Store%EC%99%80%20React.memo%EB%A1%9C%20%EB%A6%AC%EB%A0%8C%EB%8D%94%EB%A7%81%20%EC%B5%9C%EC%86%8C%ED%99%94)  |  |
 | 13 | 이주현 |  |  |
