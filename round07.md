@@ -22,7 +22,7 @@
 | 16 | 이효성 |  |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 |  |  |
-| 19 | 심정훈 |  | [CSS Modules과 CSS-in-JS — React 스타일링 전략 비교](https://bak-libra26.co.kr/posts/%EA%B0%9C%EB%B0%9C/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/%EB%A6%AC%EC%95%A1%ED%8A%B8/%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81/CSS%20Modules%EA%B3%BC%20CSS-in-JS%20%E2%80%94%20React%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%20%EC%A0%84%EB%9E%B5%20%EB%B9%84%EA%B5%90) |
+| 19 | 심정훈 | [CSS Modules과 CSS-in-JS — React 스타일링 전략 비교](https://bak-libra26.co.kr/posts/%EA%B0%9C%EB%B0%9C/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C/%EB%A6%AC%EC%95%A1%ED%8A%B8/%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81/CSS%20Modules%EA%B3%BC%20CSS-in-JS%20%E2%80%94%20React%20%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81%20%EC%A0%84%EB%9E%B5%20%EB%B9%84%EA%B5%90)  | |
 | 20 | 장정호 |  |  |
 | 21 | 전영호 |  |  |
 | 22 | 최강헌 | [가맹점관리자 엑셀 다운로드 비동기 도입 시도](https://pray-for-dev.tistory.com/57) |  |
