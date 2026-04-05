@@ -22,7 +22,7 @@
 | 16 | 이효성 |  |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 | [고객과 시장이해하기](https://develop-think-record.tistory.com/56) |  |
-| 19 | 심정훈 |  |  |
+| 19 | 심정훈 | [AOP 동작 원리 — 코드를 건드리지 않고 기능을 추가하는 방법](https://bak-libra26.co.kr/posts/%EA%B0%9C%EB%B0%9C/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC/%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%BD%94%EC%96%B4/AOP%20%EB%8F%99%EC%9E%91%20%EC%9B%90%EB%A6%AC%20%E2%80%94%20%EC%BD%94%EB%93%9C%EB%A5%BC%20%EA%B1%B4%EB%93%9C%EB%A6%AC%EC%A7%80%20%EC%95%8A%EA%B3%A0%20%EA%B8%B0%EB%8A%A5%EC%9D%84%20%EC%B6%94%EA%B0%80%ED%95%98%EB%8A%94%20%EB%B0%A9%EB%B2%95) |  |
 | 20 | 장정호 |  |  |
 | 21 | 전영호 |  |  |
 | 22 | 최강헌 |  |  |
