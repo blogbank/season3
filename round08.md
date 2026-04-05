@@ -18,7 +18,7 @@
 | 12 | 이주영 |[Next.js 서버 컴포넌트에서 Promise.all()로 대시보드 응답 시간 2배 단축하기](https://phnml1.github.io/posts/React/Next.js%20%EC%84%9C%EB%B2%84%20%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%97%90%EC%84%9C%20Promise.all()%EB%A1%9C%20%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C%20%EC%9D%91%EB%8B%B5%20%EC%8B%9C%EA%B0%84%202%EB%B0%B0%20%EB%8B%A8%EC%B6%95%ED%95%98%EA%B8%B0)  |  |
 | 13 | 이주현 |  |  |
 | 14 | 이지은 |  |  |
-| 15 | 이효경 |  |  |
+| 15 | 이효경 |[강의 - 쿠버네티스 - 컨테이너 오케스트레이션 시스템](https://hyolog.vercel.app/posts?slug=BackEnd/Docker/%EA%B0%95%EC%9D%98%20-%20%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4%20-%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%98%A4%EC%BC%80%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%9D%B4%EC%85%98%20%EC%8B%9C%EC%8A%A4%ED%85%9C) |  |
 | 16 | 이효성 |  |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 | [고객과 시장이해하기](https://develop-think-record.tistory.com/56) |  |
