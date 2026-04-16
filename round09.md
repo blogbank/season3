@@ -14,7 +14,7 @@
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
 | 10 | 이재민 |  |  |
-| 11 | 이정진 |  |  |
+| 11 | 이정진 | [[Kotlin In Action] (3) - defining and calling functions](https://freshdev.tistory.com/80) |  |
 | 12 | 이주영 |  |  |
 | 13 | 이주현 |  |  |
 | 14 | 이지은 |  |  |
