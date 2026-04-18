@@ -13,7 +13,7 @@
 | 7 | 김준현 |  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
-| 10 | 이재민 |  |  |
+| 10 | 이재민 | [설문조사 메일, (광고) 붙여야 할까?](https://jam-scribble.tistory.com/57) |  |
 | 11 | 이정진 | [[Kotlin In Action] (3) - defining and calling functions](https://freshdev.tistory.com/80) |  |
 | 12 | 이주영 |  |  |
 | 13 | 이주현 |  |  |
