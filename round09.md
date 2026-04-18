@@ -16,7 +16,7 @@
 | 10 | 이재민 | [설문조사 메일, (광고) 붙여야 할까?](https://jam-scribble.tistory.com/57) |  |
 | 11 | 이정진 | [[Kotlin In Action] (3) - defining and calling functions](https://freshdev.tistory.com/80) |  |
 | 12 | 이주영 | [PR 댓글 실시간 시스템을 WebSocket으로 설계한 이유](https://phnml1.github.io/posts/React/PR%20%EB%8C%93%EA%B8%80%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20WebSocket%EC%9C%BC%EB%A1%9C%20%EC%84%A4%EA%B3%84%ED%95%9C%20%EC%9D%B4%EC%9C%A0)  |  |
-| 13 | 이주현 |  |  |
+| 13 | 이주현 |[키오스크 결제 구조 수정](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/coupon-feature)  |  |
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |  |  |
 | 16 | 이효성 |  |  |
