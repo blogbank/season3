@@ -18,7 +18,7 @@
 | 12 | 이주영 | [PR 댓글 실시간 시스템을 WebSocket으로 설계한 이유](https://phnml1.github.io/posts/React/PR%20%EB%8C%93%EA%B8%80%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%9D%84%20WebSocket%EC%9C%BC%EB%A1%9C%20%EC%84%A4%EA%B3%84%ED%95%9C%20%EC%9D%B4%EC%9C%A0)  |  |
 | 13 | 이주현 |[키오스크 결제 구조 수정](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/coupon-feature)  |  |
 | 14 | 이지은 |[[Android] 아랍어 디바이스에서 숫자가 이상하게 보여요: NumberPicker Locale 렌더링 이슈](https://ji-eeeun.tistory.com/141)|  |
-| 15 | 이효경 |  |  |
+| 15 | 이효경 |[[생활스터디 봇] 4. Oracle Cloud 서버 구축 및 봇 배포](https://hyolog.vercel.app/posts?slug=Side%20Project/Discode%20Bot/[%EC%83%9D%ED%99%9C%EC%8A%A4%ED%84%B0%EB%94%94%20%EB%B4%87]%204.%20Oracle%20Cloud%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95%20%EB%B0%8F%20%EB%B4%87%20%EB%B0%B0%ED%8F%AC)|  |
 | 16 | 이효성 |  |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 |  |  |
