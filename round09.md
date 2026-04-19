@@ -5,7 +5,7 @@
 | No. | 이름 | 블로그 주소 | 메모 / 코멘트 |
 |-----|------|-------------|---------------|
 | 1 | 이승현 | [[jOOQ] jpa와 jOOQ 동작방식 비교 + batch](https://ssddo-story.tistory.com/85) |  |
-| 2 | 임진택 |  |  |
+| 2 | 임진택 | [단순 for 문에서 Spring Batch + No-Offset 페이징까지](https://taekt.tistory.com/57) |  |
 | 3 | 고다은 |  |  |
 | 4 | 강화영 |  |  |
 | 5 | 권홍빈 |  |  |
