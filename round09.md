@@ -8,7 +8,7 @@
 | 2 | 임진택 | [단순 for 문에서 Spring Batch + No-Offset 페이징까지](https://taekt.tistory.com/57) |  |
 | 3 | 고다은 | [시니어 봇 만들기](https://rundev.tistory.com/26)  |  |
 | 4 | 강화영 |  |  |
-| 5 | 권홍빈 |  |  |
+| 5 | 권홍빈 |[Stack 개념 공부](https://velog.io/@escalating/StackConcept)  |  |
 | 6 | 김민형 |  |  |
 | 7 | 김준현 |[[짠팟] 인프라 개선 방향에 대한 고민](https://kimjunhyun.tistory.com/184)  |  |
 | 8 | 윤수오 |  |  |
