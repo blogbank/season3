@@ -16,7 +16,7 @@
 | 10 | 이재민 |  |  |
 | 11 | 이정진 |  |  |
 | 12 | 이주영 |  |  |
-| 13 | 이주현 |  |  |
+| 13 | 이주현 |[docs 폴더정리](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/docs)  |  |
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |  |  |
 | 16 | 이효성 |  |  |
