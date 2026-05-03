@@ -13,7 +13,7 @@
 | 7 | 김준현 |  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
-| 10 | 이재민 |  |  |
+| 10 | 이재민 | [바이브 코딩(Vibe Coding) 시대, 기획자가 나아가야 할 방향](https://jam-scribble.tistory.com/58) |  |
 | 11 | 이정진 | [[Kotlin In Action] (4) - classes, objects, and interfaces](https://freshdev.tistory.com/81)|  |
 | 12 | 이주영 |  |  |
 | 13 | 이주현 |[docs 폴더정리](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/docs)  |  |
@@ -26,7 +26,7 @@
 | 20 | 장정호 |  |  |
 | 21 | 전영호 |  |  |
 | 22 | 최강헌 |  [Spring Boot 개발자의 로컬 RAG 파이프라인 구축기 [AI작성]](https://pray-for-dev.tistory.com/60) |  |
-| 23 | 최혜수 |  |  |
+| 23 | 최혜수 | [Claude Code 1주 실사용 회고](https://huisu.tistory.com/11)  |  |
 
 
 <br>
