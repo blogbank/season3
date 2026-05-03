@@ -8,7 +8,7 @@
 | 2 | 임진택 | [Stack 이 무한이 커질 수 있다면, Heap 메모리는 불필요 할까?](https://taekt.tistory.com/58) |  |
 | 3 | 고다은 |  |  |
 | 4 | 강화영 |  | (중도탈퇴) |
-| 5 | 권홍빈 |  |  |
+| 5 | 권홍빈 | [Queue 개념 공부](https://velog.io/@escalating/QueueConcept) |  |
 | 6 | 김민형 |  |  |
 | 7 | 김준현 |  |  |
 | 8 | 윤수오 |  |  |
