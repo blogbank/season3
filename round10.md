@@ -11,7 +11,7 @@
 | 5 | 권홍빈 | [Queue 개념 공부](https://velog.io/@escalating/QueueConcept) |  |
 | 6 | 김민형 |  |  |
 | 7 | 김준현 |  |  |
-| 8 | 윤수오 |  |  |
+| 8 | 윤수오 | [5G 무선 품질 지표](https://velog.io/@dbstndh12/5G-%EB%AC%B4%EC%84%A0-%ED%92%88%EC%A7%88-%EC%A7%80%ED%91%9C) |  |
 | 9 | 이민영 |  |  |
 | 10 | 이재민 | [바이브 코딩(Vibe Coding) 시대, 기획자가 나아가야 할 방향](https://jam-scribble.tistory.com/58) |  |
 | 11 | 이정진 | [[Kotlin In Action] (4) - classes, objects, and interfaces](https://freshdev.tistory.com/81)|  |
