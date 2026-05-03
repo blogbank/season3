@@ -18,7 +18,7 @@
 | 12 | 이주영 |  |  |
 | 13 | 이주현 |[docs 폴더정리](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/docs)  |  |
 | 14 | 이지은 |  |  |
-| 15 | 이효경 |  |  |
+| 15 | 이효경 |[하네스엔지니어링 완전정복 정독1 - 4개의 기둥 이해하기](https://hyolog.vercel.app/posts?slug=AI/Harness%20Engineering/%ED%95%98%EB%84%A4%EC%8A%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%20%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5%20%EC%A0%95%EB%8F%851%20-%204%EA%B0%9C%EC%9D%98%20%EA%B8%B0%EB%91%A5%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)  |  |
 | 16 | 이효성 | [[Claude] Claude 엄청남, 엄청남, 엄청남, 평서문](https://lho2046.tistory.com/7) |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 |  |  |
