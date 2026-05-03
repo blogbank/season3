@@ -13,7 +13,7 @@
 | 7 | 김준현 |  |  |
 | 8 | 윤수오 |  |  |
 | 9 | 이민영 |  |  |
-| 10 | 이재민 |  |  |
+| 10 | 이재민 | [바이브 코딩(Vibe Coding) 시대, 기획자가 나아가야 할 방향](https://jam-scribble.tistory.com/58) |  |
 | 11 | 이정진 | [[Kotlin In Action] (4) - classes, objects, and interfaces](https://freshdev.tistory.com/81)|  |
 | 12 | 이주영 |  |  |
 | 13 | 이주현 |[docs 폴더정리](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/docs)  |  |
