@@ -19,7 +19,7 @@
 | 13 | 이주현 |[docs 폴더정리](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/docs)  |  |
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |  |  |
-| 16 | 이효성 |  |  |
+| 16 | 이효성 | [[Claude] Claude 엄청남, 엄청남, 엄청남, 평서문](https://lho2046.tistory.com/7) |  |
 | 17 | 박지선 |  |  |
 | 18 | 박현종 |  |  |
 | 19 | 심정훈 |  |  |
