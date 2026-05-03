@@ -15,7 +15,7 @@
 | 9 | 이민영 |  |  |
 | 10 | 이재민 | [바이브 코딩(Vibe Coding) 시대, 기획자가 나아가야 할 방향](https://jam-scribble.tistory.com/58) |  |
 | 11 | 이정진 | [[Kotlin In Action] (4) - classes, objects, and interfaces](https://freshdev.tistory.com/81)|  |
-| 12 | 이주영 |  |  |
+| 12 | 이주영 | [AI 리뷰 비동기 상태 흐름과 실시간 알림 구조 정리](https://phnml1.github.io/posts/React/AI%20%EB%A6%AC%EB%B7%B0%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%83%81%ED%83%9C%20%ED%9D%90%EB%A6%84%EA%B3%BC%20%EC%8B%A4%EC%8B%9C%EA%B0%84%20%EC%95%8C%EB%A6%BC%20%EA%B5%AC%EC%A1%B0%20%EC%A0%95%EB%A6%AC) |  |
 | 13 | 이주현 |[docs 폴더정리](https://jujus.gitbook.io/jutrongs-docs/my-storage/anything/docs)  |  |
 | 14 | 이지은 |  |  |
 | 15 | 이효경 |[하네스엔지니어링 완전정복 정독1 - 4개의 기둥 이해하기](https://hyolog.vercel.app/posts?slug=AI/Harness%20Engineering/%ED%95%98%EB%84%A4%EC%8A%A4%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%20%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5%20%EC%A0%95%EB%8F%851%20-%204%EA%B0%9C%EC%9D%98%20%EA%B8%B0%EB%91%A5%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)  |  |
